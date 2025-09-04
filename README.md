@@ -1,10 +1,5 @@
 ## Hi, I'm Zachary! 👋
 
-<div>
-  <a href="https://mail.google.com/mail/u/?authuser=zacharynicholasm@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.upwork.com/freelancers/~01c3b0802df106c9fe" target="_blank"><img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-</div>
-
 <br />
 <br />
 
